@@ -1,4 +1,4 @@
-package array;
+package oa;
 
 public class CoinChange {
     public static void main(String[] args) {

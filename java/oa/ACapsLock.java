@@ -1,4 +1,4 @@
-package array;
+package oa;
 
 public class ACapsLock {
     public static void main(String[] args) {

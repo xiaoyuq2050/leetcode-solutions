@@ -1,4 +1,4 @@
-package array;
+package oa;
 
 import java.util.HashSet;
 import java.util.Set;
