@@ -4,7 +4,7 @@ import java.util.*;
 
 public class SubsetsWithDup {
     public static void main(String[] args) {
-
+        System.out.println(Integer.MIN_VALUE);
         System.out.println(subsetsWithDup(new int[] {4,4,4,1,4}));
     }
 
